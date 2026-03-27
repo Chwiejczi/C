@@ -1,0 +1,61 @@
+word:,counter:1,line number:  100 
+word:0,counter:2,line number:  21 24 
+word:1,counter:3,line number:  10 23 31 
+word:aby,counter:1,line number:  47 
+word:brak,counter:1,line number:  47 
+word:byl,counter:1,line number:  47 
+word:calloc,counter:2,line number:  10 23 
+word:cerr,counter:1,line number:  70 
+word:d,counter:1,line number:  96 
+word:else,counter:1,line number:  28 
+word:empty,counter:1,line number:  74 
+word:exists,counter:1,line number:  89 
+word:free,counter:2,line number:  62 81 
+word:gdy,counter:1,line number:  47 
+word:h,counter:3,line number:  1 2 3 
+word:if,counter:10,line number:  21 24 27 37 47 56 69 73 82 88 
+word:include,counter:3,line number:  1 2 3 
+word:Info,counter:3,line number:  26 39 96 
+word:int,counter:5,line number:  14 19 19 35 39 
+word:is,counter:1,line number:  74 
+word:juz,counter:1,line number:  78 
+word:kolejki,counter:1,line number:  47 
+word:komunikat,counter:1,line number:  47 
+word:missing,counter:3,line number:  47 58 70 
+word:n,counter:10,line number:  47 47 58 58 70 70 74 74 89 89 
+word:not,counter:1,line number:  89 
+word:NULL,counter:3,line number:  37 63 83 
+word:p,counter:14,line number:  23 24 26 27 28 29 79 80 81 93 94 96 97 97 
+word:pHead,counter:6,line number:  16 27 39 79 80 93 
+word:pNext,counter:3,line number:  28 80 97 
+word:po,counter:1,line number:  78 
+word:printf,counter:5,line number:  47 58 74 89 96 
+word:pTail,counter:3,line number:  28 29 83 
+word:q,counter:34,line number:  5 14 16 16 19 21 27 27 28 29 35 37 39 40 45 47 50 50 54 56 56 61 62 63 66 69 73 79 80 82 83 86 88 93 
+word:QClear,counter:1,line number:  47 
+word:QDel,counter:2,line number:  70 74 
+word:QFClear,counter:2,line number:  45 61 
+word:QFCreate,counter:1,line number:  8 
+word:QFDel,counter:3,line number:  5 40 66 
+word:QFDequeue,counter:2,line number:  35 50 
+word:QFEmpty,counter:6,line number:  14 27 37 50 73 82 
+word:QFEnqueue,counter:1,line number:  19 
+word:QFifo,counter:11,line number:  5 8 10 10 14 19 35 45 54 66 86 
+word:QFItem,counter:5,line number:  23 23 23 79 93 
+word:QFPrint,counter:2,line number:  86 89 
+word:QFRemove,counter:1,line number:  54 
+word:QRemove,counter:1,line number:  58 
+word:Queue,counter:6,line number:  3 47 58 70 74 89 
+word:Res,counter:2,line number:  39 41 
+word:return,counter:12,line number:  10 16 21 24 31 37 41 48 59 71 75 90 
+word:sizeof,counter:2,line number:  10 23 
+word:sprawdz,counter:1,line number:  47 
+word:sprawdzeniu,counter:1,line number:  78 
+word:stdio,counter:1,line number:  1 
+word:stdlib,counter:1,line number:  2 
+word:to,counter:1,line number:  78 
+word:void,counter:5,line number:  5 45 54 66 86 
+word:while,counter:2,line number:  50 94 
+word:wykonywane,counter:1,line number:  78 
+word:wylacznie,counter:1,line number:  78 
+word:x,counter:2,line number:  19 26 
