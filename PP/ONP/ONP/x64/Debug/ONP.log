@@ -1,0 +1,5 @@
+﻿  ONP.cpp
+C:\Users\jbalu\OneDrive\Pulpit\SZKOŁA\PP\ONP\ONP\ONP.cpp(25,23): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\jbalu\OneDrive\Pulpit\SZKOŁA\PP\ONP\ONP\ONP.cpp(27,18): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\jbalu\OneDrive\Pulpit\SZKOŁA\PP\ONP\ONP\ONP.cpp(27,37): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+  ONP.vcxproj -> C:\Users\jbalu\OneDrive\Pulpit\SZKOŁA\PP\ONP\x64\Debug\ONP.exe
